@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+.cursiva{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic;
+}
+.alineamiento{
+    display: flex;
+    width: 100%;
+    border: 1px solid black;
+    justify-content: space-evenly;
+}
+.div-secundario{
+    text-align: justify;
+    border: 1px solid black;
+    padding: 15px;
+}
+.div-25{
+    width: 25%;
+}
+.div-50{
+    width: 50%;
+    text-align: center;
+}
+.div-75{
+    width: 75%;
+    padding: 0px;
+}
+.div-ver{
+    height: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    color: black;
+    padding: 15px;
+    
+}
+.pol{
+    background: khaki;
+}
+.tec{
+    background: skyblue;
+}
+.loc{
+    background: palegreen;
+}
+.opi{
+    background: cornflowerblue;
+}
+.dep{
+    background: violet;
+}
+.img{
+    max-width: 100%;
+    max-height: 100%;
+}
